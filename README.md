@@ -48,4 +48,4 @@ Sales teams often struggle to interpret complex sales data and identify patterns
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/sales-trends-metrics-dashboard.git
+   git clone https://github.com/Josephvarghes/sales-trends-metrics-dashboard.git
