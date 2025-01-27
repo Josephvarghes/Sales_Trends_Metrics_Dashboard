@@ -1,0 +1,12 @@
+Sr No	KPIs	
+1	Top 10 Revenue(Sales) Generating Countries	
+2	Top 3 Profitable Market	
+3	Top 10 Subcategory for profit Ratio	Profit/Sales
+4	Bottom 5 Revenue(Sales) generating Sub-Category 	
+5	Revenue(Sales) per E-Commerce Platform	
+6	Order Priority-wise Quantity	
+7	Revenue(Sales) Growth per Year	
+8	Total Revenue(Sales)	
+9	Total Profit	
+10	Number of Product Got Sold per Year	
+11	Slicer Based on Segment	
